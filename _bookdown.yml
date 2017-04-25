@@ -1,0 +1,5 @@
+book_filename: "elisios-usm"
+output_dir: docs
+rmd_files: [
+  "index.Rmd"
+  ]

@@ -1,2 +1,3 @@
-# elisios-usm
-Irrigation web app user manual
+# Elisios user manual
+
+Interactive app for irrigation management
