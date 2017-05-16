@@ -45,7 +45,13 @@ library(citr)
 
 # Elisios
 
-_Elisios_ is a web application based in R + Shiny for calculate the irrigation requiremt for crops according the metereological condition and plant characteristics.
+_Elisios_  es una plataforma _on line_ para el cálculo de evapotranspiración de referencia $ET_{O}$ en cual emplea la ecuación de **Penman-Monteith FAO1998** 
+
+
+is a web application based in R + Shiny for calculate the irrigation requiremt for crops according the metereological condition and plant characteristics.
+
+$ET_{0}$
+
 
 
 ## Principal characteristics
